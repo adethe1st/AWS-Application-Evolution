@@ -12,3 +12,5 @@ The requirements of your appliication's setup are mainly what will be used when 
 
 For  Wordpress in this case, specifying the DB password, username and endpoint, are such requiremeents of its setup. Replacing the said variables in wordpress' config file (wp-config) would be a common use case.
 
+
+![App Evolution Diagram](AWS-App-Scaling.drawio.svg)
